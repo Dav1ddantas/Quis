@@ -1,0 +1,19 @@
+.botoes {
+    padding: 10px 20px; /* adiciona espaço interno */
+    border-radius: 20px; /* arredonda as bordas */
+    background-color: #4CAF50; /* define a cor de fundo */
+    color: white; /* define a cor do texto */
+    font-size: 18px; /* define o tamanho da fonte */
+    border: none; /* remove a borda */
+    cursor: pointer; /* muda o cursor quando passa por cima */
+}
+.pergunta {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.pergunta span {
+    color: red;
+}
